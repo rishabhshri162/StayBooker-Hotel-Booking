@@ -38,7 +38,7 @@ A modern and responsive **Hotel Booking Website** built with **HTML**, **CSS/Tai
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mannu292001/StayBooker-Pro.git
+   git clone https://github.com/rishabhshri162/StayBooker-Hotel-Booking.git
    ```
 2. Navigate to the project directory:
    ```bash
